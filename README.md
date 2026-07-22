@@ -1,26 +1,14 @@
 # Hey there 👋, I'm Emmanuel!
 
-I'm a Computer Science student at Williams College who enjoys building full-stack applications, exploring AI, and creating software that makes an impact.
+I am a CS student at Williams College who aspires to build full-stack applications that create real-world impact as an AI-native software engineer.
 
-💻 Software Engineering Intern @ Salesforce (Futureforce)
+## Experience:
 
-🎓 Computer Science Student @ Williams College
+💻 Software Engineering Futureforce Tech Launchpad Intern @ Salesforce
 
-👨‍🏫 Teaching Assistant @ Williams College Computer Science Department
+📊 Software Engineering Intern @ Institute for Human & Machine Cognition (IHMC)
 
-🌟 Career Preparation Fellow @ Management Leadership for Tomorrow (MLT)
-
-🤝 Peer Career Advisor @ Williams College
-
-📊 Former Software Engineering Intern @ Institute for Human & Machine Cognition (IHMC)
-
----
-
-I'm passionate about full-stack development, artificial intelligence, and building products that solve real-world problems. Whether I'm developing scalable web applications, analyzing large datasets, or mentoring fellow students, I enjoy learning, collaborating, and creating meaningful experiences through technology.
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO)
+👨‍🏫 Mentor students as a Teaching Assistant, Campus Career Advisor, and College Advisor supporting low-income high school students
 
 ## Languages
 
@@ -49,11 +37,3 @@ I'm passionate about full-stack development, artificial intelligence, and buildi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-## GitHub Stats
-
-![Emmanuel's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YOUR_GITHUB_USERNAME&theme=gruvbox)
-
-## 🎧 What I'm Listening To
-
-<!-- Spotify GitHub widget (optional) -->
