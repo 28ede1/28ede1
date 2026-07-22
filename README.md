@@ -4,7 +4,7 @@ I am a CS student at Williams College who aspires to become an AI-native softwar
 
 ## Experience & Leadership
 
-💻 Software Engineering Futureforce Tech Launchpad Intern @ Salesforce
+💻 Software Engineering Futureforce Tech Launchpad Intern (FTL) @ Salesforce
 
 📊 Software Engineering Intern @ Institute for Human & Machine Cognition (IHMC)
 
