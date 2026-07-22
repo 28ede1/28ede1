@@ -8,7 +8,7 @@ I am a CS student at Williams College who aspires to become an AI-native softwar
 
 📊 Software Engineering Intern @ Institute for Human & Machine Cognition (IHMC)
 
-👨‍🏫 Mentor students as a Teaching Assistant, Campus Career Advisor, and College Advisor supporting low-income high school students
+👨‍🏫 Mentor students as a CS Teaching Assistant, Campus Career Advisor, and College Advisor supporting low-income high school students
 
 ## Languages
 
