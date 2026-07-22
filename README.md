@@ -1,6 +1,6 @@
 # Hey there 👋, I'm Emmanuel!
 
-I am a CS student at Williams College who aspires to build full-stack applications that create real-world impact as an AI-native software engineer.
+I am a CS student at Williams College who aspires to become an AI-native software engineer building full-stack applications that create real-world impact.
 
 ## Experience:
 
