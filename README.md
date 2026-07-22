@@ -2,7 +2,7 @@
 
 I am a CS student at Williams College who aspires to become an AI-native software engineer building full-stack applications that create real-world impact.
 
-## Experience:
+## Experience & Leadership
 
 💻 Software Engineering Futureforce Tech Launchpad Intern @ Salesforce
 
